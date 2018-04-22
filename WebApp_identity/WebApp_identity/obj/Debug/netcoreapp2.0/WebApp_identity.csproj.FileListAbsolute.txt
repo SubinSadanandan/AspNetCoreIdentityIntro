@@ -1,0 +1,11 @@
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\obj\Debug\netcoreapp2.0\WebApp_identity.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\obj\Debug\netcoreapp2.0\WebApp_identity.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\obj\Debug\netcoreapp2.0\WebApp_identity.AssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\bin\Debug\netcoreapp2.0\WebApp_identity.deps.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\bin\Debug\netcoreapp2.0\WebApp_identity.runtimeconfig.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\bin\Debug\netcoreapp2.0\WebApp_identity.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\bin\Debug\netcoreapp2.0\WebApp_identity.dll
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\obj\Debug\netcoreapp2.0\WebApp_identity.csprojResolveAssemblyReference.cache
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\bin\Debug\netcoreapp2.0\WebApp_identity.pdb
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\obj\Debug\netcoreapp2.0\WebApp_identity.dll
+D:\Subin\Tech\Asp.Net Core\pluralsight\Identity\Scott Brady\WebApp_identity\WebApp_identity\obj\Debug\netcoreapp2.0\WebApp_identity.pdb
